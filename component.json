@@ -3,7 +3,7 @@
   "repo": "component/query",
   "description": "Query the DOM with selector engine fallback support",
   "version": "0.0.1",
-  "keywords": [],
+  "keywords": ["query", "selector", "engine", "dom", "elements"],
   "dependencies": {},
   "development": {
     "component/assert": "*",
