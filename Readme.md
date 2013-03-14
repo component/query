@@ -1,7 +1,9 @@
 
 # query
 
-  Query the DOM with selector engine fallback support.
+  Query the DOM with selector engine fallback support. This abstraction
+  allows all other components that require dom querying to indirectly support
+  old browsers, without explicitly adding support for them.
 
 ## Installation
 

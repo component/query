@@ -6,8 +6,7 @@
   "keywords": ["query", "selector", "engine", "dom", "elements"],
   "dependencies": {},
   "development": {
-    "component/assert": "*",
-    "component/zest": "*"
+    "component/assert": "*"
   },
   "license": "MIT",
   "scripts": [
