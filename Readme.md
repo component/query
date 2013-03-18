@@ -1,4 +1,3 @@
-
 # query
 
   Query the DOM with selector engine fallback support. This abstraction
@@ -24,7 +23,7 @@ query('ul > li', articles);
 ### query.all(selector, [el])
 
   Query `selector` against the document or `el`
-  and return a all matches.
+  and return all matches.
 
 ```js
 query.all('ul > li');
