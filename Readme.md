@@ -36,6 +36,7 @@ query.all('ul > li', articles);
   Currently supported:
 
   - [query-zest](https://github.com/component/query-zest)
+  - [query-qwery](https://github.com/jamischarles/query-qwery)
 
 ## License
 
