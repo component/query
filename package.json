@@ -1,0 +1,9 @@
+{
+  "name": "query",
+  "description": "Query the DOM with selector engine fallback support",
+  "version": "0.0.1",
+  "keywords": ["query", "selector", "engine", "dom", "elements"],
+  "dependencies": {},
+  "license": "MIT",
+  "main": "index.js"
+}
